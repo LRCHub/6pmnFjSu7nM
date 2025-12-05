@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "final phase / fripSide（covered by 棗いつき）",
+  "base_artist": "棗いつき",
+  "createdAt": "2025-12-05T09:32:14.385998Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "final phase",
+      "artist": "fripSide",
+      "has_synced": true,
+      "path": "select/01_final_phase_fripSide.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "final phase",
+      "artist": "fripSide",
+      "has_synced": true,
+      "path": "select/02_final_phase_fripSide.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Final Phase",
+      "artist": "Signs of the Swarm",
+      "has_synced": true,
+      "path": "select/03_Final_Phase_Signs_of_the_Swarm.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Final Phase",
+      "artist": "Signs of the Swarm",
+      "has_synced": true,
+      "path": "select/04_Final_Phase_Signs_of_the_Swarm.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "final phase",
+      "artist": "fripside",
+      "has_synced": true,
+      "path": "select/05_final_phase_fripside.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "final phase <TVsize>",
+      "artist": "Fripside",
+      "has_synced": true,
+      "path": "select/06_final_phase__TVsize_Fripside.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "final phase ᐸTVsizeᐳ",
+      "artist": "fripSide",
+      "has_synced": true,
+      "path": "select/07_final_phase_ᐸTVsizeᐳ_fripSide.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "final phase - version2023",
+      "artist": "fripSide",
+      "has_synced": true,
+      "path": "select/08_final_phase_-_version2023_fripSide.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Final Phase (ft. Dickie Allen)",
+      "artist": "Signs Of The Swarm",
+      "has_synced": true,
+      "path": "select/09_Final_Phase_(ft._Dickie_Allen)_Signs_Of_The_Swarm.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "final phase",
+      "artist": "棗いつき",
+      "has_synced": false,
+      "path": "select/pl_01_final_phase_棗いつき.txt"
+    }
+  ]
+}
